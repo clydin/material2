@@ -600,10 +600,10 @@
     "@bazel/buildifier-linux_x64" "0.29.0"
     "@bazel/buildifier-win32_x64" "0.29.0"
 
-"@bazel/buildifier@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-2.2.1.tgz#b5b21d0042ea48a9c43b54ec4824d4d6505988bc"
-  integrity sha512-fDWMV2x03/K5dZnAEBeKS0gpn0LWCiv5kjhMB6q0f1Q5x6S7/+xoownxgWyNRo+qHxn+a2CtQSCRUpSC8QNg/w==
+"@bazel/buildifier@^4.0.1":
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-4.0.1.tgz#52cfbad5cbb86e9183a29dde2370cd465730ea0d"
+  integrity sha512-BTmtvJbeeEVrqRApI1gr5hvPgYcHLpdGJ5EXNXEWO692ztMPSj5fB/dH0xUlaW45jn6LimYx8ymqTMhj3538og==
 
 "@bazel/ibazel@^0.13.0":
   version "0.13.2"
